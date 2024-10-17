@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "https://ticket-backend-1r81.onrender.com";
+const API_URL = "/api/us/";
 
 // Register user
 const register = async (userData) => {
