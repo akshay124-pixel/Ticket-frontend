@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "https://ticket-backend-1r81.onrender.com/api/tickets/";
+const API_URL = "https://ticket-backend-1r81.onrender.com";
 
 // Get Ticket notes
 const getNotes = async (ticketId, token) => {
